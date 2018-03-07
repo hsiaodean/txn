@@ -1,0 +1,23 @@
+20180212 00:03:20.311 YuantaOrd 1.6.1.3 for ActiveX control
+20180212 00:03:20.311 Create
+20180212 00:03:43.064 SetFutOrdConnection(A127227042,pw,api.yuantafutures.com.tw,80)
+20180212 00:03:43.069 return: 3
+20180212 00:03:43.757 OnLogonS(2,2-P03-2587842--¿½³Í(­}),SN=6AD435C2,0)
+20180212 00:03:43.757 SetWaitOrdResult(0)
+20180212 00:04:19.468 UserDefinsFunc(Func=FA001|bhno=F00|acno=9808900|suba=|kind=A|FC=N,FA001)
+20180212 00:04:19.468 return: -10
+20180212 00:04:22.650 UserDefinsFunc(Func=FA001|bhno=F00|acno=9808900|suba=|kind=A|FC=N,FA001)
+20180212 00:04:22.650 return: -10
+20180212 00:05:11.172 OnLogonS(-1,NULL,NULL,NULL)
+20180212 00:05:58.948 UserDefinsFunc(Func=RA003|bhno=F00|acno=9808900|suba=|kind=A|FC=N,FA001)
+20180212 00:05:58.948 return: 0
+20180212 00:06:01.117 UserDefinsFunc(Func=RA003|bhno=F00|acno=9808900|suba=|kind=A|FC=N,FA001)
+20180212 00:06:01.117 return: 0
+20180212 00:08:21.914 UserDefinsFunc(Func=RA003|bhno=F004|acno=2587842|suba=|FC=N,FA001)
+20180212 00:08:21.914 return: 0
+20180212 00:08:22.896 UserDefinsFunc(Func=RA003|bhno=F004|acno=2587842|suba=|FC=N,FA001)
+20180212 00:08:22.896 return: 0
+20180212 00:08:32.787 UserDefinsFunc(Func=RA003|bhno=F004|acno=2587842|suba=|FC=N,RA003)
+20180212 00:08:32.787 return: 0
+20180212 00:08:33.863 UserDefinsFunc(Func=RA003|bhno=F004|acno=2587842|suba=|FC=N,RA003)
+20180212 00:08:33.863 return: 0
